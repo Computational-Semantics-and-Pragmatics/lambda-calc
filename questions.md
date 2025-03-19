@@ -7,7 +7,7 @@ Questions on lambda calculus
     Answer:
 
     ```
-1. **[2pts]**Solve Exercise 3.3 of the notes. 
+1. **[2pts]** Solve Exercise 3.3 of the notes. 
     ```
     Answer:
 
